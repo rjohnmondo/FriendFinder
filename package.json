@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An application for finding friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjohnmondo/FriendFinder.git"
+  },
+  "author": "Rocco John Mondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjohnmondo/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/rjohnmondo/FriendFinder#readme"
+}
